@@ -1,0 +1,12 @@
+---
+title: "Spin-sensitive jet observables and their resummation"
+collection: talks
+type: "Talk"
+permalink: /talks/2021-08-04-spin-sensitive-jet-observables-and
+venue: "BOOST 2021"
+date: 2021-08-04
+location: "Online"
+slidesurl: "https://indico.cern.ch/event/1037559/contributions/4451744/attachments/2287599/3894620/040821BOOST.pdf"
+---
+
+

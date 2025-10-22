@@ -1,0 +1,12 @@
+---
+title: "QCD for the LHC"
+collection: talks
+type: "Talk"
+permalink: /talks/2015-01-05-qcd-for-the-lhc
+venue: "Nordic Winter School on Cosmology and Particle Physics"
+date: 2015-01-05
+location: "Svingvoll, Norway"
+slidesurl: "https://indico.nbi.ku.dk/event/743/sessions/1322/attachments/1639/2270/spaatind2015.pdf"
+---
+
+

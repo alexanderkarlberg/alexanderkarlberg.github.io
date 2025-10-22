@@ -1,0 +1,12 @@
+---
+title: "The path to NNLL accurate parton showers"
+collection: talks
+type: "Seminar"
+permalink: /talks/2024-06-27-the-path-to-nnll
+venue: "Joint INFN-UNIMI-UNIMIB Pheno Seminar"
+date: 2024-06-27
+location: "Milan, Italy"
+slidesurl: "https://indico.global/event/7552/attachments/33123/62241/270624MilanSeminar.pdf"
+---
+
+
