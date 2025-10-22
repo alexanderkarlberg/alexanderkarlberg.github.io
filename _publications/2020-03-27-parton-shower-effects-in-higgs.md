@@ -8,7 +8,7 @@ excerpt: |
 date: 2020-03-27
 venue: "Eur.Phys.J.C"
 paperurl: "https://arxiv.org/pdf/2003.12435.pdf"
-bibtexurl: "./publications/2020-03-27-parton-shower-effects-in-higgs.bib"
+bibtexurl: "_publications/2020-03-27-parton-shower-effects-in-higgs.bib"
 ---
 
 __Abstract__: We present a systematic investigation of parton-shower and matching uncertainties of perturbative origin for Higgs-boson production via vector-boson fusion. To this end we employ different generators at next-to-leading order QCD accuracy matched with shower Monte Carlo programs, PYTHIA8, and HERWIG7, and a next-to-next-to-leading order QCD calculation. We thoroughly analyse the intrinsic sources of uncertainty within each generator, and then compare predictions among the different tools using the respective recommended setups. Within typical vector-boson fusion cuts, the resulting uncertainties on observables that are accurate to next-to-leading order are at the 10% level for rates and even smaller for shapes. For observables sensitive to extra radiation effects uncertainties of about 20% are found. We furthermore show how a specific recoil scheme is needed when PYTHIA8 is employed, in order not to encounter unphysical enhancements for these observables. We conclude that for vector-boson fusion processes an assessment of the uncertainties associated with simulation at next-to-leading order matched to parton showers based only on the variation of renormalisation, factorisation and shower scales systematically underestimates their true size.

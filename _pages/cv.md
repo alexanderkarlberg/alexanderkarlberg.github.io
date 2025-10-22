@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,36 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* __DPhil in Theoretical Physics__, University of Oxford, 2016
+  * Supervisor: Prof. Giulia Zanderighi
+* __cand.scient. (MSc) in Physics__, University of Copenhagen, 2012
+* __BSc in Physics__, University of Copenhagen, 2010
 
-Work experience
+Research Positions
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* __Visiting Scientist__, CERN, since 2025
+* __PostDoctoral Researcher__, University of Oxford, since 2025
+* __Senior Research Fellow__, CERN, 2022-2025
+* __PostDoctoral Researcher__, University of Oxford, 2019-2022
+  * on [PanScales](https://gsalam.web.cern.ch/panscales/) ERC
+* __PostDoctoral Researcher__. Universität Zürich, 2016-2019
+* __Summer Student__, CERN, Summer 2010
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Honors and Awards
+======
+* __David Cockayne JRF__: Linacre College, University of Oxford, 2019-2022
+* [__Pauli Center__](https://paulicenter.ch/) junior visitor award. Universität Zürich, 2018
+* [__Buckee Scholarship__](http://merton.physics.ox.ac.uk/gradscholars.html). Merton College, University of Oxford, 2012-2016
+* __Anglo-Danish Scholarship__. Anglo-Danish Society, 2012
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}

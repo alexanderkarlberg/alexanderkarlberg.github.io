@@ -1,5 +1,5 @@
 ---
-title: "Precision studies of observables in &#92;(p p \rightarrow W \rightarrow l\nu _l&#92;) and &#92;( pp \rightarrow \gamma ,Z \rightarrow l^+ l^-&#92;) processes at the LHC"
+title: "Precision studies of observables in &#92;(p p \\rightarrow W \\rightarrow l\\nu _l&#92;) and &#92;( pp \\rightarrow \\gamma ,Z \\rightarrow l^+ l^-&#92;) processes at the LHC"
 collection: publications
 category: manuscripts
 permalink: "/publication/2016-06-07-precision-studies-of-observables"
@@ -8,7 +8,7 @@ excerpt: |
 date: 2016-06-07
 venue: "Eur.Phys.J.C"
 paperurl: "https://arxiv.org/pdf/1606.02330.pdf"
-bibtexurl: "./publications/2016-06-07-precision-studies-of-observables.bib"
+bibtexurl: "_publications/2016-06-07-precision-studies-of-observables.bib"
 ---
 
 __Abstract__: This report was prepared in the context of the LPCC Electroweak Precision Measurements at the LHC WG ( https://lpcc.web.cern.ch/lpcc/index.php?page=electroweak_wg ) and summarizes the activity of a subgroup dedicated to the systematic comparison of public Monte Carlo codes, which describe the Drell–Yan processes at hadron colliders, in particular at the CERN Large Hadron Collider (LHC). This work represents an important step towards the definition of an accurate simulation framework necessary for very high-precision measurements of electroweak (EW) observables such as the W boson mass and the weak mixing angle. All the codes considered in this report share at least next-to-leading-order (NLO) accuracy in the prediction of the total cross sections in an expansion either in the strong or in the EW coupling constant. The NLO fixed-order predictions have been scrutinized at the technical level, using exactly the same inputs, setup and perturbative accuracy, in order to quantify the level of agreement of different implementations of the same calculation. A dedicated comparison, again at the technical level, of three codes that reach next-to-next-to-leading-order (NNLO) accuracy in quantum chromodynamics (QCD) for the total cross section has also been performed. These fixed-order results are a well-defined reference that allows a classification of the impact of higher-order sets of radiative corrections. Several examples of higher-order effects due to the strong or the EW interaction are discussed in this common framework. Also the combination of QCD and EW corrections is discussed, together with the ambiguities that affect the final result, due to the choice of a specific combination recipe. All the codes considered in this report have been run by the respective authors, and the results presented here constitute a benchmark that should be always checked/reproduced before any high-precision analysis is conducted based on these codes. In order to simplify these benchmarking procedures, the codes used in this report, together with the relevant input files and running instructions, can be found in a repository at https://twiki.cern.ch/twiki/bin/view/Main/DrellYanComparison .

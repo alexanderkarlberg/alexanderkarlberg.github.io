@@ -8,7 +8,7 @@ excerpt: |
 date: 2016-10-25
 venue: "CERN Yellow Rep.Monogr."
 paperurl: "https://arxiv.org/pdf/1610.07922.pdf"
-bibtexurl: "./publications/2016-10-25-handbook-of-lhc-higgs.bib"
+bibtexurl: "_publications/2016-10-25-handbook-of-lhc-higgs.bib"
 ---
 
 __Abstract__: This Report summarizes the results of the activities of the LHC Higgs Cross Section Working Group in the period 2014-2016. The main goal of the working group was to present the state-of-the-art of Higgs physics at the LHC, integrating all new results that have appeared in the last few years. The first part compiles the most up-to-date predictions of Higgs boson production cross sections and decay branching ratios, parton distribution functions, and off-shell Higgs boson production and interference effects. The second part discusses the recent progress in Higgs effective field theory predictions, followed by the third part on pseudo-observables, simplified template cross section and fiducial cross section measurements, which give the baseline framework for Higgs boson property measurements. The fourth part deals with the beyond the Standard Model predictions of various benchmark scenarios of Minimal Supersymmetric Standard Model, extended scalar sector, Next-to-Minimal Supersymmetric Standard Model and exotic Higgs boson decays. This report follows three previous working-group reports: Handbook of LHC Higgs Cross Sections: 1. Inclusive Observables (CERN-2011-002), Handbook of LHC Higgs Cross Sections: 2. Differential Distributions (CERN-2012-002), and Handbook of LHC Higgs Cross Sections: 3. Higgs properties (CERN-2013-004). The current report serves as the baseline reference for Higgs physics in LHC Run 2 and beyond.

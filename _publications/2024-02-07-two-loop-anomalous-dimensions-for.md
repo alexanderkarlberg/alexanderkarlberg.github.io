@@ -8,7 +8,7 @@ excerpt: |
 date: 2024-02-07
 venue: "JHEP"
 paperurl: "https://arxiv.org/pdf/2402.05170.pdf"
-bibtexurl: "./publications/2024-02-07-two-loop-anomalous-dimensions-for.bib"
+bibtexurl: "_publications/2024-02-07-two-loop-anomalous-dimensions-for.bib"
 ---
 
 __Abstract__: We study the collinear fragmentation of highly energetic jets defined with a small jet radius. In particular, we investigate how the corresponding fragmentation functions differ from their hadronic counterpart defined in the common &#92;( \overline{\textrm{MS}} &#92;) scheme. We find that the anomalous dimensions governing the perturbative evolution of the two fragmentation functions differ starting at the two loop order. We compute for the first time the new anomalous dimensions at two loops and confirm our predictions by comparing the inclusive small-R jet spectrum against a fixed order perturbative calculation at &#92;( \mathcal{O} &#92;)(&#92;( {\alpha}_s^2 &#92;)). To investigate the dependence of the anomalous dimension on the kinematic cutoff variable, we study the fragmentation functions of Cambridge jets defined with a transverse momentum cutoff as opposed to an angular cutoff R. We further study the evolution of the small-R fragmentation function with an alternative cutoff scale, proportional to zR, representing the maximum possible transverse momentum of emissions within a jet. In these cases we find that the two-loop anomalous dimensions coincide with the &#92;( \overline{\textrm{MS}} &#92;) DGLAP ones, highlighting a correspondence between the &#92;( \overline{\textrm{MS}} &#92;) scheme and a transverse-momentum cutoff.

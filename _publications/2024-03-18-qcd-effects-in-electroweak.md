@@ -8,7 +8,7 @@ excerpt: |
 date: 2024-03-18
 venue: "Eur.Phys.J.C"
 paperurl: "https://arxiv.org/pdf/2403.12192.pdf"
-bibtexurl: "./publications/2024-03-18-qcd-effects-in-electroweak.bib"
+bibtexurl: "_publications/2024-03-18-qcd-effects-in-electroweak.bib"
 ---
 
 __Abstract__: We present an update of an existing implementation of WZjj production via vector-boson scattering in the framework of the POWHEG BOX program. In particular, previously unavailable semi-leptonic and fully hadronic decay modes of the intermediate vector bosons are provided, and operators of dimension six in an effective-field theory approach to account for physics beyond the Standard Model in the electroweak sector are included. For selected applications phenomenological results are provided to illustrate the capabilities of the new program. The impact of the considered dimension-six operators on experimentally accessible distributions is found to be small for current LHC energies, but enhanced in the kinematic reach of a potential future hadron collider with an energy of 100 TeV. The relevance of fully accounting for spin correlations and off-shell effects in the decay system is explored by a comparison with results obtained with the MadSpin tool that are based on an approximate treatment of the leptonic final state resulting from vector boson scattering processes. For selected semi-leptonic and hadronic decay modes we demonstrate the sensitivity of realistic signal selection procedures on QCD corrections and parton-shower effects.

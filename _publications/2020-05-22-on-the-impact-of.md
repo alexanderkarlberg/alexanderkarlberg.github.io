@@ -8,7 +8,7 @@ excerpt: |
 date: 2020-05-22
 venue: "JHEP"
 paperurl: "https://arxiv.org/pdf/2005.11334.pdf"
-bibtexurl: "./publications/2020-05-22-on-the-impact-of.bib"
+bibtexurl: "_publications/2020-05-22-on-the-impact-of.bib"
 ---
 
 __Abstract__: We study the non-factorisable QCD corrections, computed in the eikonal approximation, to Vector-Boson Fusion single and double Higgs production and show the combined factorisable and non-factorisable corrections for both processes at &#92;( \mathcal{O}\left({\alpha}_s^2\right) &#92;). We investigate the validity of the eikonal approximation with and without selection cuts, and carry out an in-depth study of the relative size of the non-factorisable next-to-next-to-leading order corrections compared to the factorisable ones. In the case of single Higgs production, after selection cuts are applied, the non-factorisable corrections are found to be mostly contained within the factorisable scale uncertainty bands. When no cuts are applied, instead, the non-factorisable corrections are slightly outside the scale uncertainty band. Interestingly, for double Higgs production, we find that both before and after applying cuts, non-factorisable corrections are enhanced compared to the single Higgs case. We trace this enhancement to the existence of delicate cancellations between the various leading-order Feynman diagrams, which are partly spoiled by radiative corrections. All contributions studied here have been implemented in proVBFH v1.2.0 and proVBFHH v1.1.0.

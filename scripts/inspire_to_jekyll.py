@@ -305,7 +305,7 @@ def download_bib(outdir, date_iso, slug, recid):
 def write_markdown(outdir, date_iso, slug, meta, recid, pdf_url, bib_path):
     """
     Writes markdown with YAML front matter:
-      - title as double-quoted string (quotes escaped)
+      - title as double-quoted string (backslashes and quotes escaped)
       - excerpt as YAML block scalar '|' (full abstract preserved)
       - math delimiters emitted using HTML numeric entity &#92; to protect them
     """
@@ -342,9 +342,9 @@ def write_markdown(outdir, date_iso, slug, meta, recid, pdf_url, bib_path):
     paperurl = pdf_url or ""
     bibtexurl = bib_path.replace("\\", "/") if bib_path else ""
 
-    # title: double-quoted YAML string; must escape internal double quotes
-    title_for_yaml = title_conv.replace('"', '\\"')
-    venue_for_yaml = (venue or "").replace('"', '\\"')
+    # Escape backslashes and double quotes for double-quoted YAML scalars
+    title_for_yaml = title_conv.replace("\\", "\\\\").replace('"', '\\"')
+    venue_for_yaml = (venue or "").replace("\\", "\\\\").replace('"', '\\"')
 
     # Write file
     with open(path, "w", encoding="utf-8") as f:

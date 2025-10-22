@@ -11,6 +11,22 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
+{% assign talks_sorted = site.talks | sort: "date" | reverse %}
+{% assign prev_year = "" %}
+
+{% for post in talks_sorted %}
+  {% assign this_year = post.date | date: "%Y" %}
+  {% if this_year != prev_year %}
+    <h2 id="year-{{ this_year }}">{{ this_year }}</h2>
+    <div class="talks-year" data-year="{{ this_year }}">
+    {% assign prev_year = this_year %}
+  {% endif %}
+
   {% include archive-single-talk.html %}
+
 {% endfor %}
+
+{% if prev_year != "" %}
+  </div>
+{% endif %}
+
