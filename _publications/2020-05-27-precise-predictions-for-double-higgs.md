@@ -1,0 +1,14 @@
+---
+title: "Precise predictions for double-Higgs production via vector-boson fusion"
+collection: publications
+category: manuscripts
+permalink: "/publication/2020-05-27-precise-predictions-for-double-higgs"
+excerpt: |
+  Theoretical predictions with next-to-next-to-leading order (NNLO) QCD accuracy combined with the next-to-leading order (NLO) electroweak (EW) corrections are presented for differential observables of the double-Higgs production process via vector-boson fusion. While the QCD corrections were previously known, the EW ones are computed here for the first time. The numerical results are obtained for a realistic experimental set-up at the LHC and are presented in the form of fiducial cross sections and differential distributions. Within this setup we find that the VBF approximation employed in the NNLO QCD correction is accurate at the sub-percent level. We find that the NLO EW corrections within the fiducial volume are &#92;(-\,6.1\%&#92;), making them of almost the same order as the NLO QCD corrections. In some kinematic regions they can grow as large as &#92;(-\,30\%&#92;) making them the dominant radiative corrections. When the EW corrections are combined with the NNLO QCD corrections we find a total correction of &#92;(-\,14.8\%&#92;). The results presented here thus comprise the state-of-the-art theoretical predicition for the double-Higgs production via vector-boson fusion, which will be of value to the high-luminosity programme at the LHC.
+date: 2020-05-27
+venue: "Eur.Phys.J.C"
+paperurl: "https://arxiv.org/pdf/2005.13341.pdf"
+bibtexurl: "./publications/2020-05-27-precise-predictions-for-double-higgs.bib"
+---
+
+__Abstract__: Theoretical predictions with next-to-next-to-leading order (NNLO) QCD accuracy combined with the next-to-leading order (NLO) electroweak (EW) corrections are presented for differential observables of the double-Higgs production process via vector-boson fusion. While the QCD corrections were previously known, the EW ones are computed here for the first time. The numerical results are obtained for a realistic experimental set-up at the LHC and are presented in the form of fiducial cross sections and differential distributions. Within this setup we find that the VBF approximation employed in the NNLO QCD correction is accurate at the sub-percent level. We find that the NLO EW corrections within the fiducial volume are &#92;(-\,6.1\%&#92;), making them of almost the same order as the NLO QCD corrections. In some kinematic regions they can grow as large as &#92;(-\,30\%&#92;) making them the dominant radiative corrections. When the EW corrections are combined with the NNLO QCD corrections we find a total correction of &#92;(-\,14.8\%&#92;). The results presented here thus comprise the state-of-the-art theoretical predicition for the double-Higgs production via vector-boson fusion, which will be of value to the high-luminosity programme at the LHC.
