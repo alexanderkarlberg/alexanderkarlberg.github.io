@@ -18,8 +18,9 @@ Education
 
 Research Positions
 ======
-* __Visiting Scientist__, CERN, since 2025
-* __PostDoctoral Researcher__, University of Oxford, since 2025
+* __Senior PostDoctoral Researcher__, Max Planck Institute for Physics, since 2026
+* __PostDoctoral Researcher__, University of Oxford, 2025-2026
+  * and __Visiting Scientist__, CERN
 * __Senior Research Fellow__, CERN, 2022-2025
 * __PostDoctoral Researcher__, University of Oxford, 2019-2022
   * on [PanScales](https://gsalam.web.cern.ch/panscales/) ERC

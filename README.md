@@ -94,3 +94,14 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 [![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
 [![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
 </div>
+
+
+###
+
+* To update CV just edit _pages/cv.md
+
+* To add a talk run `./scripts/add_talk.py` from top-level directory and follow instructions
+
+* Do I need to run the script to update talkmap???
+
+* To update publications run `./scripts/inspire_to_jekyll.py --author-url https://inspirehep.net/authors/1069015 --outdir _publications` or `./scripts/update_publication_list.sh` directly.
