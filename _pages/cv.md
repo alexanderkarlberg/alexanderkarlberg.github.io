@@ -19,11 +19,10 @@ Education
 Research Positions
 ======
 * __Senior PostDoctoral Researcher__, Max Planck Institute for Physics, since 2026
-* __PostDoctoral Researcher__, University of Oxford, 2025-2026
-  * and __Visiting Scientist__, CERN
-* __Senior Research Fellow__, CERN, 2022-2025
-* __PostDoctoral Researcher__, University of Oxford, 2019-2022
-  * on [PanScales](https://gsalam.web.cern.ch/panscales/) ERC
+* __Senior Research Fellow__ and __Visiting Scientist__, CERN, 2022-2026
+* __PostDoctoral Researcher__, University of Oxford, 2019-2022, 2025-2026
+  * on [PanScales](https://gsalam.web.cern.ch/panscales/) ERC, 2022-2025
+  * and __David Cockayne JRF__: Linacre College, 2022-2025
 * __PostDoctoral Researcher__. Universität Zürich, 2016-2019
 * __Summer Student__, CERN, Summer 2010
 

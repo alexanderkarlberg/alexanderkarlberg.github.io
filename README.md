@@ -99,6 +99,8 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 ###
 
 * To update CV just edit _pages/cv.md
+* To update front page edit _pages/about.md
+* To update email etc edit _config.yml
 
 * To add a talk run `./scripts/add_talk.py` from top-level directory and follow instructions
 

@@ -10,7 +10,7 @@ redirect_from:
 
 Thanks for visiting my profile page!
 
-I am currently working as a Senior Research Fellow in the Theory Department at CERN. My interests are in perturbative QCD and event generators.
+I am currently working as a Senior Researcher at the Max Planck Institute for Physics. My interests are in perturbative QCD and event generators.
 
 For an up2date list of my publications, please consult [iNSPIRE](https://inspirehep.net/authors/1069015).
 

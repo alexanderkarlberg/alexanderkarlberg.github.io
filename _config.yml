@@ -27,10 +27,10 @@ author:
   name             : "Alexander Karlberg"
   pronouns         : # example: "she/her"  
   bio              : "Theoretical Physicist "
-  location         : "CERN, Switzerland"
-  employer         : "University of Oxford"
+  location         : "Munich, Germany"
+  employer         : "Max Planck Institute for Physics"
   uri              : # URL
-  email            : "alexander.karlberg@cern.ch" 
+  email            : "alexander.karlberg@mpp.mpg.de" 
 
   # Academic websites
   academia         : # URL
